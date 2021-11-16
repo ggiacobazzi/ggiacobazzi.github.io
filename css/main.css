@@ -1,3 +1,7 @@
+background: rgb(154,233,242);
+
+background: linear-gradient(90deg, rgba(154,233,242,1) 22%, rgba(60,103,230,1) 89%);
+
 body {
     margin: 60px auto;
     width: 70%;
